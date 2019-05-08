@@ -1,1 +1,4 @@
-/home/ec2-user/github/netty4-http-server/src/test/java/org/horiga/study/test/netty4/http/AppTest.java
+/home/ec2-user/github/java-WebServer/src/test/java/com/dasanjos/java/WebServerTest.java
+/home/ec2-user/github/java-WebServer/src/test/java/com/dasanjos/java/http/ContentTypeTest.java
+/home/ec2-user/github/java-WebServer/src/test/java/com/dasanjos/java/http/HttpRequestTest.java
+/home/ec2-user/github/java-WebServer/src/test/java/com/dasanjos/java/http/HttpResponseTest.java

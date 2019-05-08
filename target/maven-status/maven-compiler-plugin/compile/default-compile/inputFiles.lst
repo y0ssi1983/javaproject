@@ -1,4 +1,8 @@
-/home/ec2-user/github/netty4-http-server/src/main/java/org/horiga/study/test/netty4/http/HttpServer.java
-/home/ec2-user/github/netty4-http-server/src/main/java/org/horiga/study/test/netty4/http/HttpServerInitializer.java
-/home/ec2-user/github/netty4-http-server/src/main/java/org/horiga/study/test/netty4/http/SimpleController.java
-/home/ec2-user/github/netty4-http-server/src/main/java/org/horiga/study/test/netty4/http/HttpRequestDispatchHandler.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/http/HttpRequest.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/http/ContentType.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/RequestHandler.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/http/Status.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/WebServer.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/http/HttpResponse.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/http/Method.java
+/home/ec2-user/github/java-WebServer/src/main/java/com/dasanjos/java/Logger.java

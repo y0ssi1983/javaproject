@@ -1,1 +1,4 @@
-org/horiga/study/test/netty4/http/AppTest.class
+com/dasanjos/java/http/ContentTypeTest.class
+com/dasanjos/java/http/HttpRequestTest.class
+com/dasanjos/java/http/HttpResponseTest.class
+com/dasanjos/java/WebServerTest.class
